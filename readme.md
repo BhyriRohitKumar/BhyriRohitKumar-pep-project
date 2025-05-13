@@ -1,4 +1,4 @@
-# Project: Social media blog API
+# Project: Social media blog API Revature Final Year Project 
 
 ## Background 
 
